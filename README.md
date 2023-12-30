@@ -8,3 +8,7 @@ Welcome to the Quiz Application project repository! This Java application, devel
 *   **Answer Submission**: Allow users to select an option and submit their answer within the given time.
 *   **Score Calculation**: Keep track of the user's score based on correct answers.
 *   **Result Screen**: Display the final score and a summary of correct/incorrect answers
+# Technologies Used
+*   **Java**: The core programming language used for implementing the quiz application logic.
+*   **NetBeans IDE 20**: The integrated development environment used for Java application development.
+*   **GitHub**: This repository is hosted on GitHub, providing version control and collaboration features.
